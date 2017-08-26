@@ -19,7 +19,5 @@
 17. \* usersrepository23.xml    ：暂不知于usersrepository.xml区别   
 18. \* usersrepository.xml        ：用户Repository配置  
 
-安装步骤：
-
-
+安装步骤：http://www.sojson.com/blog/151.html
 
